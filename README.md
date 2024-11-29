@@ -5,13 +5,13 @@ This repository contains links to all the parts of the project.
 ## Repositories
 
 ### 1. [Frontend Repository](https://github.com/Mayank-2/innocomm)
-   - Description: The frontend of the project, built with [React/Next.js/etc.].
+   - Description: The frontend of the project, built with React, Tailwindcss.
 
 ### 2. [Backend Repository](https://github.com/Mayank-2/Innoback)
-   - Description: The backend of the project, built with [Django/Node.js/etc.].
+   - Description: The backend of the project, built with Django And Django Rest Framework.
 
 ### 3. [Admin Frontend Repository](https://github.com/Mayank-2/innoAdmin)
-   - Description: The admin panel, built with [React/Bootstrap/etc.].
+   - Description: The admin panel, built with React , Tailwindcss.
 
 ## Note on Authentication Testing
 Due to current compatibility issues between JWT-based authentication and deployment platforms Render (backend) and Vercel (frontend), some authentication features may not function correctly when accessed via the browser. Specifically, CORS and credential handling may cause challenges during API requests.
